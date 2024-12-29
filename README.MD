@@ -1,12 +1,5 @@
 
- import base64
 
-# Abrir a imagem no modo binário
-with open("imagem.png", "rb") as image_file:
-    base64_string = base64.b64encode(image_file.read()).decode('utf-8')
-
-print(base64_string)
-  
 
 # Projeto Podcast Gerado por I.A.s
 
