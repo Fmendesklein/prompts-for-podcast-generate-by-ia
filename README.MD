@@ -38,14 +38,16 @@ o formato do roteiro deve ser
 [INTRODUÇÃO] 
 [CURIOSIDADE 1] 
 [CURIOSIDADE 2] 
+[CURIOSIDADE 3] 
 [FINALIZAÇÃO] 
 {REGRAS} 
 - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal de Atila Lamario 
-- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS 
-- no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends 
-- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Felipão e esse foi o CodeQuest dessa semana' 
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de como era a concessão de crédito bancário nos anos 90 e 2000 no Brasil
+- no bloco [CURIOSIDADE 2] fale sobre a concessão de crédito com o auxílio de ferramentas de IA e o uso de algoritmos
+-no bloco [CURIOSIDADE 3] fale sobre quais ferramentas podem ser usadas pelos bancários e que podem ser integradas aos sistemas já existentes
+- no bloco [FINALIZAÇÃO] faça um resumo de como a gerência pode se beneficiar das nossas tecnologias buscando colocar o cliente no centro do atendimento. Usando a finalização baseado no formato do canal de Atila Lamario.
 - use termos de fácil explicação 
-- O podcast vai ser apresentado somente por uma pessoa, chamada Felipão 
+- O podcast vai ser apresentado somente por uma pessoa, uma mulher, chamada Fabíula
 - O podcast deve ser curto 
 {REGRAS NEGATIVAS} 
 - Não use muitos termos técnicos 
@@ -56,4 +58,4 @@ o formato do roteiro deve ser
 
 
   
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+
